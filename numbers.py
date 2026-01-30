@@ -1,13 +1,7 @@
-n = int(input("Enter a number: "))
+numbers = [1, 2, 2, 3, 3, 3]
 
-even_numbers = []
-odd_numbers = []
+counts = {}
+for num in numbers:
+    counts[num] = counts.get(num, 0) + 1
 
-for i in range(1, n + 1):
-    if i % 2 == 0:
-        even_numbers.append(i)
-    else:
-        odd_numbers.append(i)
-
-print("Even numbers list:", even_numbers)
-print("Odd numbers list:", odd_numbers)
+print(counts)
