@@ -7,7 +7,6 @@
   
 <img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/ee81574e-2472-4d29-b1c5-97996f73897d" />
 
-" />
 </p>
 
 <p align="center" style="font-size:20px; font-weight:bold; color:#36BCF7;">
